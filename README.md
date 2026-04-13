@@ -1,7 +1,3 @@
-Всем привет, я Ойдин Аюпова. Обучаюсь на 3 курсе, по специальности "Программная инженерия".
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oindividum) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aupovaoydin@gmail.com) 
 
